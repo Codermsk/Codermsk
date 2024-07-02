@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Codermsk&&style=flat-square)  
+
+<p align="center">
+
+  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+  
+</p>
+
+
 <!--
 **Codermsk/Codermsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
